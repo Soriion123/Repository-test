@@ -1,16 +1,13 @@
 using UnityEngine;
 
-
 public class JspIlestcoolcescript : MonoBehaviour
 {
-
+    public float _kiloElMordjenSurPied = 55f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+    private void mmoi je mange la glace;
     void Start()
     {
-        coucou mange mon paf corentin berlioz;
-        quand a toi erwan jtaime bien;
-        l'autre corentin t nul;
-        et toi julien bah arrete nintendo;
+        ss
     }
 
     // Update is called once per frame
@@ -18,4 +15,7 @@ public class JspIlestcoolcescript : MonoBehaviour
     {
         
     }
+
+
 }
+//je sais ce que je ne sais pas
